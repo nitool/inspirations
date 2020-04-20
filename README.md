@@ -23,4 +23,7 @@ List below contains all links that I find inspiring as for creating designs, pag
 * https://saaspages.xyz/
 * https://hyperpixel.io/
 * https://saaslandingpage.com/
+* https://www.awwwards.com/
+* https://www.cssdesignawards.com/
+* https://www.cssawards.net/
 
